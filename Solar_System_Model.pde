@@ -1,5 +1,5 @@
 
-//Planet(float r, float d, float o, v)
+//Planet(float r, float d, float o, float v)
 Planet Sun = new Planet(0.005, 0, 0, 0);
 Planet Mercury = new Planet(0.000016, 0.39, 87.96, 47.87);
 Planet Venus = new Planet(0.00004, 0.723, 224.68, 35.02);
